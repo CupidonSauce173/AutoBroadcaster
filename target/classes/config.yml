@@ -1,0 +1,9 @@
+#Delay between each broadcast (seconds)
+delay: 30
+#Array of messages
+messages:
+  - "message_01"
+  - "message_02"
+  - "message_03"
+  - "message_04"
+  - "message_05"
